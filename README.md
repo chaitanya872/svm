@@ -1,4 +1,4 @@
-# svm
+# svm https://github.com/chaitanya872/svm.git
 Implementation of SVM classifier
 The SVM (Support Vector Machine) is a supervised machine learning algorithm typically used for binary classification problems. Here we will be having two classes for cancer detection, i.e., Benign and Malignant.
 Dataset: We will be using Breast Cancer Wisconsin (Diagnostic) Data Set for our experiments
